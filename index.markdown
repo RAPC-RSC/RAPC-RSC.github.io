@@ -2,122 +2,62 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Welcome to the Recent Appointees in Physical Chemistry 2025
+The Faraday Councils most recent version of the **Recent Appointees in Physical Chemistry (RAPC) Meeting**
+will be held at Edinburgh university from the **13-15 January 2025**. For more details about the Schedule see below. 
 
-[Link to another page](./another-page.html).
+# Schedule
 
-There should be whitespace between paragraphs.
+### Day 1
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+| Timings     | Monday 13/01/25               | Presenter           |
+| ----------- | ----------------------------- | ------------------- |
+| 11:00-12:30 | Arrival                       |                     |
+| 12:30-1:00  | registration                  |                     |
+| 1:00-1:10   | Welcome                       | Prof. Andy Mount    |
+| 1:10-3:30   | Networking Talks              | Attendees           |
+| 3:30-4:00   | coffee break                  |                     |
+| 4:00-5:00   | Getting started with teaching | Prof. Michael Seery |
+| 5:00-6:00   | Questions and networking      | Attendees           |
 
 
-### Definition lists can be used with HTML syntax.
+### Day 2
+| Timings     | Tuesday 14/01/25         | Presenter         |
+| ----------- | ------------------------ | ----------------- |
+| 9:30-10:30  | EDI                      | Dr Claire Hobday  |
+| 10:30-11:00 | coffee                   |                   |
+| 11:00-12:30 | work/life/building group | Prof. Jan Verlet  |
+| 12:30-1:30  | lunch                    |                   |
+| 1:30-2:00   | Generating Impact        | Prof. Philip Camp |
+| 2:00-2:30   | The benefits of outreach | Dr Jenny Gracie   |
+| 2:30-3:00   | Narrative CV             | Dr Andy Alexander |
+| 3:00-3:30   | coffee                   |                   |
+| 3:30-4:00   | Research strategy        | Dr Andy Lawrence  |
+| 4:00-5:00   | EPSRC portofolio         | Dr Janette Wark   |
+| 5:00-6:00   | Networking               |                   |
+| 7:00-10:00  | Conference dinner        |
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Day 3
+| Timings     | Wednesday 15/11/25                   | Presenter        |
+| ----------- | ------------------------------------ | ---------------- |
+| 9:30-11:00  | How to develop your leadership - IAD | Emily Woollen    |
+| 10:00-11:30 | coffee                               |                  |
+| 11:30-12:15 | Publishing                           | Andrew Bissette  |
+| 12:15-1:00  | Data management                      | Prof. Jeremy Fay |
+| 1:00- 2:30  | Lunch and networking                 |
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+# Sponsors
+
+Watch thins space for updates
+
+
+# Location
+Please watch this space for updates
+
+# Accomodation
+Please watch this space for updates
+
+# FAQs
+
+Please watch this space for updates
