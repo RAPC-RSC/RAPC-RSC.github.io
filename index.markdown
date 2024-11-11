@@ -22,6 +22,7 @@ will be held at Edinburgh university from the **13-15 January 2025**. For more d
 
 
 ### Day 2
+
 | Timings     | Tuesday 14/01/25         | Presenter         |
 | ----------- | ------------------------ | ----------------- |
 | 9:30-10:30  | EDI                      | Dr Claire Hobday  |
@@ -38,9 +39,10 @@ will be held at Edinburgh university from the **13-15 January 2025**. For more d
 | 7:00-10:00  | Conference dinner        |
 
 ### Day 3
+
 | Timings     | Wednesday 15/11/25                   | Presenter        |
 | ----------- | ------------------------------------ | ---------------- |
-| 9:30-11:00  | How to develop your leadership - IAD | Emily Woollen    |
+| 9:30-11:00  | Leadership management                | Emily Woollen    |
 | 10:00-11:30 | coffee                               |                  |
 | 11:30-12:15 | Publishing                           | Andrew Bissette  |
 | 12:15-1:00  | Data management                      | Prof. Jeremy Fay |
