@@ -3,8 +3,7 @@ layout: default
 ---
 
 # Welcome to the Recent Appointees in Physical Chemistry 2025
-The Faraday Councils most recent version of the **Recent Appointees in Physical Chemistry (RAPC) Meeting**
-will be held at Edinburgh university from the **13-15 January 2025**. For more details about the Schedule see below. 
+The latest Edition of the Recent Appointees Meeting in Physical Chemistry will be held at the University of Edinburgh between the 13/01/2025 and 15/01/2025.
 
 # Schedule
 
