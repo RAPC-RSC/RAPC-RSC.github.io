@@ -3,7 +3,8 @@ layout: default
 ---
 
 # Welcome to the Recent Appointees in Physical Chemistry 2025
-The latest Edition of the Recent Appointees Meeting in Physical Chemistry will be held at the University of Edinburgh between the 13/01/2025 and 15/01/2025.
+
+**The latest Edition of the Recent Appointees Meeting in Physical Chemistry will be held at the University of Edinburgh between the 13/01/2025 and 15/01/2025.**
 
 # Schedule
 
@@ -75,10 +76,10 @@ Exhibitors will be found TBC.
 
 
 # Accomodation
-You will receive individual information on your accommodation. 
-Rooms have been reserved at:
-1.
-2.
+You will receive individual information on your accommodation with rooms reserved at:
+[Travel Lodge Cameron Toll](https://www.travelodge.co.uk/hotels/418/Edinburgh-Cameron-Toll-hotel).
+
+The hotel is a short 10 min walk away from King's Buildings. 
 
 # FAQ
 Please get in touch via email: antonia.mey@ed.ac.uk
