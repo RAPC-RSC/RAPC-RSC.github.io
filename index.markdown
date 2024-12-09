@@ -44,7 +44,7 @@ layout: default
 | 9:30-11:00  | Leadership Management         | Emily Woollen       |
 | 10:00-11:30 | Coffee                        |                     |
 | 11:30-12:15 | Publishing                    | Andrew Bissette     |
-| 12:15-1:00  | Data Management               | Jeremy Fray         |
+| 12:15-1:00  | Data Management               | Jeremy Frey         |
 | 1:00-2:30   | Lunch and Networking          |                     |
 
 # Sponsors
