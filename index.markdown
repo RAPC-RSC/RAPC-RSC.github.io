@@ -35,7 +35,7 @@ layout: default
 | 3:30-4:00   | Research Strategy             | Andy Lawrence       |MH G0.32 |
 | 4:00-5:00   | EPSRC Portfolio               | Janette Wark        |MH G0.32 |
 | 5:00-6:00   | Networking                    |                     |Museum Joseph Black Building |
-| 7:00-10:00  | Conference Dinner             |                     | TBC     |
+| 7:00-10:00  | Conference Dinner             |                     |Cannonball Restaurant & Bar |
 
 ### Day 3
 
@@ -69,6 +69,7 @@ We would like to thank the following sponsors for generous support of the event.
 # Locations
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vnSG7xqroUbpY6NA1B-QGZF45vEA-fs&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
+
 The event will take place on King's Buildings campus of the University of Edinburgh. 
 
 **All talks will take place in Murchison House Room G0.32 on Monday and Tuesday.**
@@ -77,6 +78,7 @@ The event will take place on King's Buildings campus of the University of Edinbu
 
 Both networking events will be held in the Museum of the Joseph Black Building (Chemistry Building) on Monday and Tuesday. 
 
+**The Conference Dinner** will be held at Cannonball Restaurant & Bar, 356 Castlehill, Edinburgh EH1 2NF at 7 pm. 
 
 Exhibitors will be found outside of room G0.32 in Murchison House. 
 
