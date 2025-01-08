@@ -10,41 +10,41 @@ layout: default
 
 ### Day 1
 
-| Timings     | Monday 13/01/25               | Presenter           |
-|-------------|-------------------------------|---------------------|
-| 11:00-12:30 | Arrival                       |                     |
-| 12:30-1:00  | Registration                  |                     |
-| 1:00-1:10   | Welcome                       | Andy Mount          |
-| 1:10-3:30   | Networking Talks              | Attendees           |
-| 3:30-4:00   | Coffee Break                  |                     |
-| 4:00-5:00   | Getting Started with Teaching | Michael Seery       |
-| 5:00-6:00   | Questions and Networking      | Attendees           |
+| Timings     | Monday 13/01/25               | Presenter           | Location |
+|-------------|-------------------------------|---------------------|----------|
+| 11:00-12:30 | Arrival                       |                     |Murchison House (MH) |
+| 12:30-1:00  | Registration                  |                     | |
+| 1:00-1:10   | Welcome                       | Andy Mount          |MH G0.32 |
+| 1:10-3:30   | Networking Talks              | Attendees           |MH G0.32 |
+| 3:30-4:00   | Coffee Break                  |                     |MH G0.32 |
+| 4:00-5:00   | Getting Started with Teaching | Michael Seery       |MH G0.32 |
+| 5:00-6:00   | Questions and Networking      | Attendees           |Museum Joseph Black Building |
 
 ### Day 2
 
-| Timings     | Tuesday 14/01/25              | Presenter           |
-|-------------|-------------------------------|---------------------|
-| 9:30-10:30  | Equity, Diversity, Inclusion  | Claire Hobday       |
-| 10:30-11:00 | Coffee                        |                     |
-| 11:00-12:30 | Work/Life/Building Group      | Jan Verlet          |
-| 12:30-1:30  | Lunch                         |                     |
-| 1:30-2:00   | Generating Impact             | Philip Camp         |
-| 2:00-2:30   | The Benefits of Outreach      | Jenny Gracie        |
-| 2:30-3:00   | Narrative CV                  | Andy Alexander      |
-| 3:00-3:30   | Coffee                        |                     |
-| 3:30-4:00   | Research Strategy             | Andy Lawrence       |
-| 4:00-5:00   | EPSRC Portfolio               | Janette Wark        |
-| 5:00-6:00   | Networking                    |                     |
-| 7:00-10:00  | Conference Dinner             |                     |
+| Timings     | Tuesday 14/01/25              | Presenter           | Location |
+|-------------|-------------------------------|---------------------|---------|
+| 9:30-10:30  | Equity, Diversity, Inclusion  | Claire Hobday       |MH G0.32 |
+| 10:30-11:00 | Coffee                        |                     |MH G0.32 |
+| 11:00-12:30 | Work/Life/Building Group      | Jan Verlet          |MH G0.32 |
+| 12:30-1:30  | Lunch                         |                     |MH G0.32 |
+| 1:30-2:00   | Generating Impact             | Philip Camp         |MH G0.32 |
+| 2:00-2:30   | The Benefits of Outreach      | Jenny Gracie        |MH G0.32 |
+| 2:30-3:00   | Narrative CV                  | Andy Alexander      |MH G0.32 |
+| 3:00-3:30   | Coffee                        |                     |MH G0.32 |
+| 3:30-4:00   | Research Strategy             | Andy Lawrence       |MH G0.32 |
+| 4:00-5:00   | EPSRC Portfolio               | Janette Wark        |MH G0.32 |
+| 5:00-6:00   | Networking                    |                     |Museum Joseph Black Building |
+| 7:00-10:00  | Conference Dinner             |                     | TBC     |
 
 ### Day 3
 
-| Timings     | Wednesday 15/01/25            | Presenter           |
-|-------------|-------------------------------|---------------------|
-| 9:30-11:00  | Leadership Management         | Emily Woollen       |
-| 10:00-11:30 | Coffee                        |                     |
-| 11:30-12:15 | Publishing                    | Andrew Bissette     |
-| 12:15-1:00  | Data Management               | Jeremy Frey         |
+| Timings     | Wednesday 15/01/25            | Presenter           | Location  |
+|-------------|-------------------------------|---------------------|-----------|
+| 9:30-11:00  | Leadership Management         | Emily Woollen       | Honours Room 2 (Ashworth Labs) |
+| 10:00-11:30 | Coffee                        |                     | Honours Room 2 (Ashworth Labs) |
+| 11:30-12:15 | Publishing                    | Andrew Bissette     | Honours Room 2 (Ashworth Labs) |
+| 12:15-1:00  | Data Management               | Jeremy Frey         | Honours Room 2 (Ashworth Labs) |
 | 1:00-2:30   | Lunch and Networking          |                     |
 
 # Sponsors
@@ -66,13 +66,19 @@ We would like to thank the following sponsors for generous support of the event.
 
 
 
-# Location
+# Locations
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vnSG7xqroUbpY6NA1B-QGZF45vEA-fs&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 The event will take place on King's Buildings campus of the University of Edinburgh. 
 
-**All talks will take place in Murchison House Room G.36.** 
-Exhibitors will be found TBC.
+**All talks will take place in Murchison House Room G0.32 on Monday and Tuesday.**
+
+**On Wednesday all talks will take place in the Honours Room 2 of the Ashworth Laboratory.**
+
+Both networking events will be held in the Museum of the Joseph Black Building (Chemistry Building) on Monday and Tuesday. 
+
+
+Exhibitors will be found outside of room G0.32 in Murchison House. 
 
 
 # Accomodation
