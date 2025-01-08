@@ -12,8 +12,7 @@ layout: default
 
 | Timings     | Monday 13/01/25               | Presenter           | Location |
 |-------------|-------------------------------|---------------------|----------|
-| 11:00-12:30 | Arrival                       |                     |Murchison House (MH) |
-| 12:30-1:00  | Registration                  |                     | |
+| 12:00-1:00  | Registration & Lunch          |                     |Murchison House (MH) |
 | 1:00-1:10   | Welcome                       | Andy Mount          |MH G0.32 |
 | 1:10-3:30   | Networking Talks              | Attendees           |MH G0.32 |
 | 3:30-4:00   | Coffee Break                  |                     |MH G0.32 |
