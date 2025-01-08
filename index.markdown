@@ -45,7 +45,7 @@ layout: default
 | 10:00-11:30 | Coffee                        |                     | Honours Room 2 (Ashworth Labs) |
 | 11:30-12:15 | Publishing                    | Andrew Bissette     | Honours Room 2 (Ashworth Labs) |
 | 12:15-1:00  | Data Management               | Jeremy Frey         | Honours Room 2 (Ashworth Labs) |
-| 1:00-2:30   | Lunch and Networking          |                     |
+| 1:00-2:30   | Lunch and Networking          |                     |Museum Joseph Black Building    |
 
 # Sponsors
 
