@@ -84,7 +84,7 @@ Exhibitors will be found outside of room G0.32 in Murchison House.
 
 # Accomodation
 You will receive individual information on your accommodation with rooms reserved at:
-[Travel Lodge Cameron Toll](https://www.travelodge.co.uk/hotels/418/Edinburgh-Cameron-Toll-hotel).
+[Travelodge Cameron Toll](https://www.travelodge.co.uk/hotels/418/Edinburgh-Cameron-Toll-hotel).
 
 The hotel is a short 10 min walk away from King's Buildings. 
 
