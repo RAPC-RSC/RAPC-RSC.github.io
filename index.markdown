@@ -40,7 +40,7 @@ layout: default
 
 | Timings     | Wednesday 15/01/25            | Presenter           | Location  |
 |-------------|-------------------------------|---------------------|-----------|
-| 9:30-11:00  | Leadership Management         | Emily Woollen       | Honours Room 2 (Ashworth Labs) |
+| 9:30-11:00  | Leadership Development         | Emily Woollen       | Honours Room 2 (Ashworth Labs) |
 | 10:00-11:30 | Coffee                        |                     | Honours Room 2 (Ashworth Labs) |
 | 11:30-12:15 | Publishing                    | Andrew Bissette     | Honours Room 2 (Ashworth Labs) |
 | 12:15-1:00  | Data Management               | Jeremy Frey         | Honours Room 2 (Ashworth Labs) |
